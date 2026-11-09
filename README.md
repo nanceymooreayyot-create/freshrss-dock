@@ -1,0 +1,2 @@
+# freshrss-dock
+please steal
